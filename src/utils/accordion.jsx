@@ -3,21 +3,18 @@ import { MdCancel, MdAnalytics } from "react-icons/md";
 const data = [
   {
     icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
-    detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+    heading: "በገበያ ላይ ካሉ ምርጥ የወለድ ተመኖች",
+    detail:'ኩባንያችን በጣም ዝቅተኛ የወለድ መጠን ያለው ቤት አቅርቧል:: '
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
-    detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+    heading: "ትክክለኛ ካልሆኑ ዋጋዎች ይጠበቁ ",
+    detail:"ህጋዊ እና አሥተማማኝ ተመኖች "
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
-    detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+    heading: "በገበያ ላይ ምርጥ ዋጋ",
+    detail:'ምክንያታዊ እና በጣም ተመጣጣኝ ቤቶች በእኛ ቀርበዋል'
   },
 ];
 export default data;

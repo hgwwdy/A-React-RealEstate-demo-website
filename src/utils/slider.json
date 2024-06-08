@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
-  },
-  {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "የሚሸጥ ቤት #ሰሚት 72 አከባቢ ",
+    "price": "65,000000",
+    "detail": " B+G+1",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": " የሚሸጥ #አፓርትመንት በመሀል #4_ኪሎ ",
+    "price": "13,000000",
+    "detail": "መኝታ: 3 + የላውንደሪ ክፍል ,መታጠቢያ: 2",
+    "image": "./r4.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "የሚሸጥ ቤት #አያት አከባቢ",
+    "price": "40,000000",
+    "detail": "የቤት አይነት: G=3 ",
+    "image": "./r5.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "የሚሸጥ ቤት #ካዛንቺስ አከባቢ ",
+    "price": "6,000000",
+    "detail": " የቤት አይነት: #ኮንዶሚኒየም",
+    "image": "./r6.jpg"
+  },
+  {
+    "name": "የሚሸጥ ቤት #አዋሬ አከባቢ ",
+    "price": "15000000",
+    "detail": " የቤት አይነት: #አፓርትመንት",
+    "image": "./r7.jpg"
+  },
+  {
+    "name": "የሚሸጥ ቤት #ሰሚት አትሌቶች መንደር አከባቢ",
+    "price": "12,700,000",
+    "detail": "የቤት አይነት: #G+2",
+    "image": "./r8.jpg"
   }
 ]

@@ -1,0 +1,50 @@
+.f-container{
+    justify-content: space-between;
+}
+.f-left{
+    gap: 1rem;
+    color: blue;
+    
+}
+.f-right{
+    margin-top:1.5rem ;
+    margin-left: 50%;
+    
+}
+.f-menu{
+    gap: 1.5rem;
+     margin-top: 1.5rem;
+     font-weight: 500;
+}
+@media(max-width:768px){
+    .f-container{
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center!important;
+        text-align: center;
+    }
+    .f-menu{
+        
+        justify-content: space-between;
+        width: 100%;
+    }
+    .f-right{
+        margin-left: -4%;
+        margin-bottom: -2%;
+       
+    }
+   .f-right .primaryText {
+         margin-left: 13%;
+   }
+    .f-left{
+        gap: 1.2rem;
+        margin-bottom: -5%;
+        margin-left: -2%;
+    }
+    .f-left img{
+        margin-left: 16%;
+        margin-bottom: -2%;
+    }
+  
+}
